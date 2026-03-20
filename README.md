@@ -1,2 +1,3 @@
-# next-data-pipeline-nwp2
+# Next Data Pipeline Nwp2
+
 A repository to test GitHub automation for issue management.
